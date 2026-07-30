@@ -157,7 +157,7 @@ export const cp = {
   },
   // Full national contest history
   contests: [
-    { date: 'Jul 2026', name: 'IUT 12th National ICT Fest Programming Contest', team: 'PU_LateCoders', rank: '54 / 128', solved: '4', href: 'https://toph.co/c/iut-inter-university-2026/standings' },
+    { date: 'Jul 2026', name: 'IUT 12th National ICT Fest Programming Contest', team: 'PU_LateCoders', rank: '54 / 128', solved: '4', href: 'https://toph.co/c/iut-inter-university-2026/standings', tag: 'Best' },
     { date: 'Jul 2026', name: 'SUST Inter University Programming Contest 2026', team: 'PrimeU_On_The_Edge', rank: '110 / 140', solved: '2', href: 'https://toph.co/c/sust-inter-university-2026/standings' },
     { date: 'Jun 2026', name: 'DUET Inter University Programming Contest 2026', team: 'PrimeU_On_The_Edge', rank: '112 / 137', solved: '2', href: 'https://toph.co/c/duet-inter-university-2026/standings' },
     { date: 'Jun 2026', name: 'NSUCEC Cybernauts IUPC 2026', team: 'PrimeU_On_The_Edge', rank: '86 / 147', solved: '2', href: 'https://bapsoj.org/contests/nsucec-cybernauts-iupc-2026/standings' },
